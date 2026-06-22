@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#09090B"/>
+  <rect x="72" y="74" width="1056" height="482" rx="28" fill="#18181B" stroke="#27272A"/>
+  <text x="122" y="164" fill="#F4F4F5" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700">ASCII File Tree Generator</text>
+  <text x="122" y="224" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="28">Create clean directory trees from text or folders.</text>
+  <text x="122" y="318" fill="#34D399" font-family="JetBrains Mono, Consolas, monospace" font-size="34">.</text>
+  <text x="122" y="372" fill="#34D399" font-family="JetBrains Mono, Consolas, monospace" font-size="34">├── src</text>
+  <text x="122" y="426" fill="#34D399" font-family="JetBrains Mono, Consolas, monospace" font-size="34">│   ├── components</text>
+  <text x="122" y="480" fill="#34D399" font-family="JetBrains Mono, Consolas, monospace" font-size="34">│   └── pages</text>
+  <text x="122" y="534" fill="#34D399" font-family="JetBrains Mono, Consolas, monospace" font-size="34">└── package.json</text>
+</svg>
