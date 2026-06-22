@@ -8,3 +8,9 @@ A small React app for generating clean ASCII directory trees from indented text,
 - Upload or drag a folder to generate a tree from local file paths
 - Switch between monospace output and proportional spacing for chat apps
 - Copy generated trees with a clipboard fallback
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE.txt).
