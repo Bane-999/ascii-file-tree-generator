@@ -1,0 +1,5 @@
+{
+  "name": "ASCII File Tree Generator",
+  "description": "Generate clean ASCII file tree diagrams from indented text, uploaded folders, or drag-and-drop directory structures.",
+  "requestFramePermissions": []
+}
