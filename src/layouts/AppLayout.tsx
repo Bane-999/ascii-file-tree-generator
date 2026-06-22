@@ -1,4 +1,3 @@
-import {Folder} from 'lucide-react';
 import type {ReactNode} from 'react';
 
 interface AppLayoutProps {
@@ -10,8 +9,8 @@ export function AppLayout({children}: AppLayoutProps) {
     <div className="min-h-screen bg-zinc-950 p-4 font-sans text-zinc-50 md:p-8">
       <div className="mx-auto flex max-w-6xl flex-col gap-6">
         <header className="flex items-center gap-3 border-b border-zinc-900 pb-4">
-          <div className="rounded-lg bg-emerald-500/10 p-2">
-            <Folder className="h-6 w-6 text-emerald-400" />
+          <div className="rounded-lg p-2">
+            <img src="logo.png" className="h-12 w-12" alt="ASCII File Tree Generator Logo" />
           </div>
           <div>
             <h1 className="text-2xl font-semibold tracking-tight text-zinc-100">
